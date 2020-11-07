@@ -1,0 +1,17 @@
+{
+    "plugins": ["webdriverio"],
+    "env": {
+        "webdriverio/wdio": true,
+        "mocha": true,
+        "commonjs": true,
+        "node": true
+    },
+    "extends": "eslint:recommended",
+    "parserOptions": {
+        "ecmaVersion": 12
+    },
+    "rules": {
+        "semi": ["error", "always"],
+        "quotes": ["error", "double"]
+    }
+}

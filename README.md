@@ -1,7 +1,9 @@
 # Sample Webdriverio Appium Project
 
 Pre-reqs:
+
 Node Installed
+
 Need to have local android emulator Installed
 
  Run the test 
